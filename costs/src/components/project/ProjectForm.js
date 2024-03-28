@@ -23,13 +23,13 @@ function ProjectForm ({handleSubmit, btnText, projectData}) {
       .catch((err) => console.log(err))
     }, [])
 
-    const submit = (e) => { // craindo nosso metodo de submissão
+    const submit = (e) => { // criando nosso metodo de submissão
         e.preventDefault()
         handleSubmit(project)
     }
 
     function handleChange(e) { 
-        setProject({...project,[e.target.name]: e.target.value // destruturando o valor do input e atribuindo o novo valor
+        setProject({...project,[e.target.name]: e.target.value // destruct o valor do input e atribuindo o novo valor
         })
     }
 
