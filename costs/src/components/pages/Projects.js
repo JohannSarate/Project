@@ -14,7 +14,7 @@ function Projects () {
     const [projects, setProjects] = useState([]) // armazena os projetos do banco de dados
     const [projectmessage, setProjectmessage] = useState("")
 
-    const location = useLocation() // vai acesar a mensagem de sucesso que colocamos no newprojects
+    const location = useLocation() 
     let message = ""
     if (location.state) {
         message = location.state.message
