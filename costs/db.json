@@ -1,0 +1,73 @@
+{
+  "projects": [
+    {
+      "id": "7ca5",
+      "name": "First Project",
+      "budget": "4000",
+      "category": {
+        "id": "1",
+        "name": "Infrastructure"
+      },
+      "cost": 249,
+      "services": [
+        {
+          "name": "Scrum",
+          "cost": "249",
+          "description": "Scrum test",
+          "id": "e5ba9190-4c2b-42b8-819d-b31ff3c7b39b"
+        }
+      ]
+    },
+    {
+      "id": "04cb",
+      "name": "Test project",
+      "budget": "50000",
+      "category": {
+        "id": "3",
+        "name": "Planning"
+      },
+      "cost": 299,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "49",
+          "id": "363b4ffa-bd11-471c-946a-9a0504051f1a"
+        },
+        {
+          "name": "tset 2",
+          "cost": "250",
+          "id": "cb914028-cc09-439c-b8e6-cd11fb0931dd"
+        }
+      ]
+    },
+    {
+      "id": "1d26",
+      "name": "Johann Sarate",
+      "budget": "10000000000000000",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infrastructure"
+    },
+    {
+      "id": "2",
+      "name": "Development"
+    },
+    {
+      "id": "3",
+      "name": "Planning"
+    },
+    {
+      "id": "4",
+      "name": "Design"
+    }
+  ]
+}
