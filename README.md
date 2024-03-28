@@ -1,4 +1,7 @@
-Project using React, We can create and manage projects, we can edit existing projects, add new services, delete services and projects, I'm using json-server to simulate our database
+
+
+<h1>Project using React, We can create and manage projects, we can edit existing projects, add new services, delete services and projects, I'm using json-server to simulate our database</h1>
+<div class="main">
 
 ![Create_project](https://github.com/JohannSarate/Project/assets/50882638/9797c064-c602-420d-82af-da5edaa6dbc9)
 
@@ -9,3 +12,5 @@ Project using React, We can create and manage projects, we can edit existing pro
 ![Add_services](https://github.com/JohannSarate/Project/assets/50882638/d26a0f17-cb3b-41b0-8737-3f8d174bd006)
 
 ![Check_services](https://github.com/JohannSarate/Project/assets/50882638/d227d784-ab64-47a4-8edc-4a69072815e2)
+
+</div>
