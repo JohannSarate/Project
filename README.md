@@ -1,6 +1,6 @@
 
 
-<h1>Project using React, We can create and manage projects, we can edit existing projects, add new services, delete services and projects, I'm using json-server to simulate our database</h1>
+<h1>This project is built with React and allows users to create, manage, and edit projects seamlessly. Users can add new services, modify existing ones, and delete both services and projects as needed. The application uses json-server to simulate a backend, providing a mock database for storing and retrieving project data. The goal of the project is to offer an intuitive interface for managing projects and their associated services, providing a dynamic, user-friendly experience.</h1>
 <div class="main">
 
 ![Create_project](https://github.com/JohannSarate/Project/assets/50882638/9797c064-c602-420d-82af-da5edaa6dbc9)
